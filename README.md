@@ -1,1 +1,2 @@
 # Web_Api_Clinica
+API web para una clínica, utilizando .NET Framework y SQL Server para gestionar la base de datos. El objetivo es desarrollar una API que permita a los usuarios acceder a información relevante de la clínica, como pacientes, médicos, citas y especialidad. Se seguirán las mejores prácticas de programación y seguridad para garantizar la calidad y protección de los datos, y se espera que la API pueda integrarse con otros sistemas y aplicaciones.
